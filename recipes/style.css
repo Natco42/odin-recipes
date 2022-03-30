@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(72, 166, 206);
+    text-align: center;
+}
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.images {
+    width: 300px;
+    height: auto;
+}
